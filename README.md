@@ -1,1 +1,1 @@
-# photoblog- Boiler plate for photography portfolio site
+ photoblog- Boiler plate for photography portfolio site
